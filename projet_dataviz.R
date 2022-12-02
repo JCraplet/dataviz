@@ -245,7 +245,7 @@ ggplot(fulldt) +
 
 
 
-#Partie Juliette qui ne marche pas! 
+#Partie Juliette 
 ## Essais Juliette
 # Croisement de certaines variables :
 # Alcool / sexe
